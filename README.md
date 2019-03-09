@@ -1,1 +1,1 @@
-This project is for Jennifer Yooks website
+# This repository is practice apps created by using React
